@@ -1,0 +1,2 @@
+# Instalador-Padrao
+Instaladores Básicos
