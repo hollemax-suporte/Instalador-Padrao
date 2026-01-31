@@ -9,5 +9,6 @@ Central de instaladores básicos e utilitários.
 ## Instalador Anydesk
 - **Aplicativo_Acesso_Remoto**
   - Última versão: https://download.anydesk.com/AnyDesk.exe
+  - Link Verificado em 31/01/2026
   
 
